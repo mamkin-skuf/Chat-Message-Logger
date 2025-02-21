@@ -24,9 +24,6 @@ const messages = [
 ];
 
 // Function to log chat messages
-
-
-
 function logChatMessage(user, message) {
     const timestamp = new Date().toISOString();
     const logEntry = `[${timestamp}] ${user}: ${message}\n`;
