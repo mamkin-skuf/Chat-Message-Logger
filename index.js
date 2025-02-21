@@ -23,8 +23,6 @@ const messages = [
     'Can you send me the file?'
 ];
 
-
-
 // Function to log chat messages
 function logChatMessage(user, message) {
     const timestamp = new Date().toISOString();
