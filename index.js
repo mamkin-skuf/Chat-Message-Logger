@@ -9,7 +9,6 @@ const logFile = path.join(__dirname, 'chat_log.txt');
 // Simulated users
 const users = ['Alice', 'Bob', 'Charlie', 'Dave', 'Eve'];
 
-
 // Simulated chat messages
 const messages = [
     'Hello, how are you?',
