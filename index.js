@@ -12,6 +12,9 @@ const users = ['Alice', 'Bob', 'Charlie', 'Dave', 'Eve'];
 // Simulated chat messages
 const messages = [
     'Hello, how are you?',
+
+
+    
     'What are you up to?',
     'That sounds great!',
     'Let's meet up later.',
